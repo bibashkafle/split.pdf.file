@@ -1,0 +1,10 @@
+/home/bibash/Downloads/Split_Pdf/Split_Pdf/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/home/bibash/Downloads/Split_Pdf/Split_Pdf/obj/x86/Debug/Split_Pdf.Form1.resources
+/home/bibash/Downloads/Split_Pdf/Split_Pdf/obj/x86/Debug/Split_Pdf.Properties.Resources.resources
+/home/bibash/Downloads/Split_Pdf/Split_Pdf/bin/Debug/Split_Pdf.exe.mdb
+/home/bibash/Downloads/Split_Pdf/Split_Pdf/bin/Debug/Split_Pdf.pdb
+/home/bibash/Downloads/Split_Pdf/Split_Pdf/bin/Debug/Split_Pdf.exe
+/home/bibash/Downloads/Split_Pdf/Split_Pdf/obj/x86/Debug/Split_Pdf.exe
+/home/bibash/Downloads/Split_Pdf/Split_Pdf/obj/x86/Debug/Split_Pdf.exe.mdb
+/home/bibash/Downloads/Split_Pdf/Split_Pdf/obj/x86/Debug/Split_Pdf.pdb
+/home/bibash/Downloads/Split_Pdf/Split_Pdf/bin/Debug/itextsharp.dll

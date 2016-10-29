@@ -1,0 +1,10 @@
+c:\users\bibash\documents\visual studio 2010\Projects\Split_Pdf\Split_Pdf\bin\Debug\Split_Pdf.exe
+c:\users\bibash\documents\visual studio 2010\Projects\Split_Pdf\Split_Pdf\bin\Debug\Split_Pdf.pdb
+c:\users\bibash\documents\visual studio 2010\Projects\Split_Pdf\Split_Pdf\obj\x86\Debug\Split_Pdf.Form1.resources
+c:\users\bibash\documents\visual studio 2010\Projects\Split_Pdf\Split_Pdf\obj\x86\Debug\Split_Pdf.Properties.Resources.resources
+c:\users\bibash\documents\visual studio 2010\Projects\Split_Pdf\Split_Pdf\obj\x86\Debug\Split_Pdf.csproj.GenerateResource.Cache
+c:\users\bibash\documents\visual studio 2010\Projects\Split_Pdf\Split_Pdf\obj\x86\Debug\Split_Pdf.exe
+c:\users\bibash\documents\visual studio 2010\Projects\Split_Pdf\Split_Pdf\obj\x86\Debug\Split_Pdf.pdb
+c:\users\bibash\documents\visual studio 2010\Projects\Split_Pdf\Split_Pdf\bin\Debug\itextsharp.dll
+c:\users\bibash\documents\visual studio 2010\Projects\Split_Pdf\Split_Pdf\bin\Debug\itextsharp.xml
+c:\users\bibash\documents\visual studio 2010\Projects\Split_Pdf\Split_Pdf\obj\x86\Debug\Split_Pdf.csprojResolveAssemblyReference.cache
